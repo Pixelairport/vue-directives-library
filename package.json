@@ -1,0 +1,56 @@
+{
+  "_from": "vue-directives-library",
+  "_id": "vue-directives-library@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-GUxYz6Tyrp0ryldhlGlSOkmTDbIvmRnRow6mJ8bKBLo8gb3zQCE9Ja6/7k82B8SwCWr75GlCFYgB5agsprz0ng==",
+  "_location": "/vue-directives-library",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-directives-library",
+    "name": "vue-directives-library",
+    "escapedName": "vue-directives-library",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-directives-library/-/vue-directives-library-1.0.0.tgz",
+  "_shasum": "58c179be279c2318ef927b66406fa2bade5814c4",
+  "_spec": "vue-directives-library",
+  "_where": "/Users/normanbraun/Work/code/apps/streamapp5",
+  "author": {
+    "name": "Norman Braun"
+  },
+  "bugs": {
+    "url": "https://github.com/Pixelairport/vue-directives-library/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Extend your Vue application with directives.",
+  "homepage": "https://github.com/Pixelairport/vue-directives-library#readme",
+  "keywords": [
+    "vue",
+    "vue2",
+    "directives",
+    "library",
+    "pixelairport",
+    "directive",
+    "click-outside",
+    "outside"
+  ],
+  "license": "ISC",
+  "name": "vue-directives-library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixelairport/vue-directives-library.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
